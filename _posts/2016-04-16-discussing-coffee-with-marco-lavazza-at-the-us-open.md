@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T14:18:50.546Z'
+datePublished: '2016-08-20T14:20:19.657Z'
 sourcePath: _posts/2016-04-16-discussing-coffee-with-marco-lavazza-at-the-us-open.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/lavazza-us-open-2015'
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T14:18:50.141Z'
+dateModified: '2016-08-20T14:20:19.261Z'
 title: Discussing Coffee with Marco Lavazza at the US Open
 app_links: []
 publisher:
@@ -27,10 +27,8 @@ publisher:
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
 description: >-
-  It's been a big year for Lavazza. Not only is it their 120th anniversary,
-  they've also partnered with the Italian Pavillon at the World Exposition Milan
-  2015 and expanded their tennis partnerships to include a sponsorship of the US
-  Open.
+  I’m a customer-obsessed marketer, startup mentor and speaker. I started
+  working with startups in 2012 and never looked back. 
 inLanguage: en
 inNav: false
 starred: false
@@ -39,3 +37,5 @@ _type: MediaObject
 
 ---
 ![About me.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b386f19-4891-4943-845d-47b57ed3494a.jpg)
+
+I'm a customer-obsessed marketer, startup mentor and speaker. I started working with startups in 2012 and never looked back.
