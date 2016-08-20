@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T13:51:51.047Z'
+datePublished: '2016-08-20T14:18:50.546Z'
 sourcePath: _posts/2016-04-16-discussing-coffee-with-marco-lavazza-at-the-us-open.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/lavazza-us-open-2015'
@@ -17,7 +17,8 @@ keywords:
   - every
 related: []
 author: []
-dateModified: '2016-08-20T13:51:50.577Z'
+via: {}
+dateModified: '2016-08-20T14:18:50.141Z'
 title: Discussing Coffee with Marco Lavazza at the US Open
 app_links: []
 publisher:
@@ -32,10 +33,9 @@ description: >-
   Open.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b409d2fe1d9493a232c86da455e19117512c51d1.jpg" /><h1>Discussing Coffee with Marco Lavazza at the US Open</h1><p>It's been a big year for Lavazza. Not only is it their 120th anniversary, they've also partnered with the Italian Pavillon at the World Exposition Milan 2015 and expanded their tennis partnerships to include a sponsorship of the US Open.</p></article>
+![About me.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b386f19-4891-4943-845d-47b57ed3494a.jpg)
