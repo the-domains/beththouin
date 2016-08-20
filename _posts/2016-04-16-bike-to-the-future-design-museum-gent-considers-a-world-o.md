@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T13:56:28.980Z'
+datePublished: '2016-08-20T14:05:02.976Z'
 sourcePath: _posts/2016-04-16-bike-to-the-future-design-museum-gent-considers-a-world-o.md
 inFeed: true
 isBasedOnUrl: 'http://www.wallpaper.com/design/cycling-our-way-to-the-future'
@@ -21,10 +21,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-20T13:56:28.646Z'
-title: >-
-  'Bike to the Future': Design Museum Gent considers a world of two-wheeled
-  design.
+dateModified: '2016-08-20T14:05:02.585Z'
+title: Back to the basics.
 app_links: []
 publisher:
   name: Wallpaper*
@@ -42,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75dd9b06e93c20d73aed8ffe8845b13b5208794.jpg" /><h1>'Bike to the Future': Design Museum Gent considers a world of two-wheeled design.</h1><p>Who is your customer, really? Together, we'll define (if you haven't already) who they are, what keeps them up at night and what makes them smarter. THIS, is the foundation for good marketing. </p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75dd9b06e93c20d73aed8ffe8845b13b5208794.jpg" /><h1>Back to the basics.</h1><p>Who is your customer, really? Together, we'll define (if you haven't already) who they are, what keeps them up at night and what makes them smarter. THIS, is the foundation for good marketing. </p></article>
