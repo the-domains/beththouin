@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T14:16:39.896Z'
+datePublished: '2016-08-20T14:17:15.331Z'
 sourcePath: _posts/2016-04-16-bike-to-the-future-design-museum-gent-considers-a-world-o.md
 inFeed: true
 isBasedOnUrl: 'http://www.wallpaper.com/design/cycling-our-way-to-the-future'
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T14:16:39.593Z'
+dateModified: '2016-08-20T14:17:14.886Z'
 title: Back to the basics.
 app_links: []
 publisher:
